@@ -1,0 +1,10 @@
+{
+  "name": "RepRush",
+  "description": "RepRush - Real-time competitive fitness game. Turn every rep into a battle with computer vision push-up detection.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
